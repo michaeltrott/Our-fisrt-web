@@ -1,0 +1,23 @@
+Michael Trott & Oliver Paine Review:
+
+- Interest Of Content : We would give the webpage a rating of 'Very Good',
+due to the fact that there is quite a lot of content and images.
+
+- Consistency And Quality Of Visual Presentation : We would give the webpage
+a rating of 'Good' due to the fact that there is some consistency with the 3 
+webpages, but could have been layed out better. There were some inconsistencies
+including not having the nav bar on each page.
+
+- Quality Of Written Presentation : We would give the webpage a rating of
+'Sound' due to the fact that the webpage uses the default font and font size
+throughout, which could have been made to look better using a different font. 
+The links for the webpages were not clear enough, due to their link names.
+
+- Validity Of HTML : We would give the webpage a rating of 'Sound' due to the
+fact that they did have a nav bar, header and footer, however there were two
+mainpage.html files and also there was a CSS file in their folder, but no
+link to it, as they ended up putting the CSS inside the HTML file.
+
+- Evidence Of Colloboration : We would give the webpage a rating of 'Very Good'
+due to the fact that they have all committed a reasonable amount each, but there
+were a couple of pushes last minute.
