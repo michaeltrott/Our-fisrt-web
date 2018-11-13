@@ -6,3 +6,12 @@ img.pic2{
 	width: 800px;
 	height: 400px;
 }
+h1 {
+  color: white;
+  background-color: purple;
+  border: 1px solid black;
+}
+h2 {
+	color: purple;
+	background-color: white
+}
