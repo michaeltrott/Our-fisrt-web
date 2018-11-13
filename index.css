@@ -1,12 +1,22 @@
 h1 {
-  color: white;
+  color:  white;
   background-color: purple;
+  text-align: center;
+    padding: 10px;   
   border: 1px solid black;
 }
 h2 {
-	color: purple;
+	color:  purple;
 	background-color: white
 }
+footer {
+    background-color:purple;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+}
+
  <style>
 #header {
     background-color:black;
